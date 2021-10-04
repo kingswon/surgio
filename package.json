@@ -180,3 +180,8 @@
     "clash"
   ]
 }
+
+
+{
+   "start": "node gateway.js"
+}
