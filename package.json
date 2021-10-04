@@ -182,6 +182,3 @@
 }
 
 
-{
-   "start": "node gateway.js"
-}
